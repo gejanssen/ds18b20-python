@@ -15,18 +15,13 @@ use 28* as a device
 	gej@rpib3:~/ds18b20 $ 
 
 
-## two hash header
+## Aansluitschema
 
-Ziet er goed uit
+Aansluitschema van de ds18b20 met de raspberry pi
 
-	Prachtig. Zo doen we het.
+ds18b20-python
 
+![My image](gejanssen.github.com/ds18b20-python/raspberry-pi-ds18b20-connections.jpg)
 
-### Three has header
-
-Ziet er beter uit
-
-	Nog Beter
-		Best
 
 Ok.
