@@ -23,7 +23,12 @@ ds18b20-python
 
 ![My image](gejanssen.github.com/ds18b20-python/raspberry-pi-ds18b20-connections.jpg)
 
-[![badge](https://raw.githubusercontent.com/gejanssen/ds18b20-python/master/raspberry-pi-ds18b20-connections.jpg)](https://travis-ci.org/chamerling/ds18b20)
+[![badge](https://raw.githubusercontent.com/gejanssen/ds18b20-python/master/raspberry-pi-ds18b20-connections.jpg)](https://raw.githubusercontent.com/gejanssen/ds18b20-python/master/raspberry-pi-ds18b20-connections.jpg)
 
-Ok.
-ok
+## Te gebruiken
+
+	sudo echo "dtoverlay=w1-gpio" >> /boot/config.txt
+	git clone https://github.com/gejanssen/ds18b20-python
+	cd ds18b20-python
+	ls -l /sys/bus/w1/devices
+	python gettemp.py 28-nummertje-wat-je-gevonden-hebt.
