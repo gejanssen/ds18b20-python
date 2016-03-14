@@ -21,7 +21,6 @@ Aansluitschema van de ds18b20 met de raspberry pi
 
 ds18b20-python
 
-![My image](gejanssen.github.com/ds18b20-python/raspberry-pi-ds18b20-connections.jpg)
 
 [![badge](https://raw.githubusercontent.com/gejanssen/ds18b20-python/master/raspberry-pi-ds18b20-connections.jpg)](https://raw.githubusercontent.com/gejanssen/ds18b20-python/master/raspberry-pi-ds18b20-connections.jpg)
 
