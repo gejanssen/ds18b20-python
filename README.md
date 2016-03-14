@@ -23,7 +23,7 @@ ds18b20-python
 
 ![My image](gejanssen.github.com/ds18b20-python/raspberry-pi-ds18b20-connections.jpg)
 
-[![badge](https://travis-ci.org/chamerling/ds18b20.svg?branch=master)](https://travis-ci.org/chamerling/ds18b20)
+[![badge](https://raw.githubusercontent.com/gejanssen/ds18b20-python/master/raspberry-pi-ds18b20-connections.jpg)](https://travis-ci.org/chamerling/ds18b20)
 
 Ok.
 ok
