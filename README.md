@@ -46,6 +46,7 @@ ds18b20-python
 Als je het met de hand wil doen en niet met raspi-config:
 
 	sudo echo "dtoverlay=w1-gpio" >> /boot/config.txt
+	(of raspi-config - enable 1wire)
 	git clone https://github.com/gejanssen/ds18b20-python
 	cd ds18b20-python
 	ls -l /sys/bus/w1/devices
