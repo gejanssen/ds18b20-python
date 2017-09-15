@@ -9,11 +9,17 @@ pi@rpi-z:~ $
 
 # Enable 1 wire
 pi@rpi-z:~ $ sudo raspi-config
-9       Advanced options
-A9	1-Wire
+
+ 5 Interfacing Options  Configure connections to peripherals 
+
+ P7 1-Wire      Enable/Disable one-wire interface  
+
+
 Enable
 Finish
 Reboot
+
+1Wire is enabled
 
 # ds18b20-python
 
